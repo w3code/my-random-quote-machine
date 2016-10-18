@@ -1,0 +1,52 @@
+body{
+  background:#dfbf9f;
+  color:purple;
+}
+
+body h1{
+  margin-top:50px;
+  text-transform:uppercase;
+}
+
+#quote{
+  padding:30px;
+  margin-top:200px;
+  margin-bottom:100px;
+  font-size:2em;
+  border-left-color:purple;
+
+}
+
+.btn, .btn:visited, .btn:active, .btn:focus{
+  margin-bottom:30px;
+  background:inherit;
+  color:white;
+  background:purple;
+  border:1px solid purple;
+}
+.btn:hover{
+  background:#f5f5f5;
+  color:purple;
+  border:1px solid purple;
+}
+.btn-info,
+.btn-info:hover,
+.btn-info:focus,
+.btn-info:active {
+  border-color:#1b95e0;
+}
+.btn-info a,
+.btn-info a:hover,
+.btn-info a:focus,
+.btn-info a:active {
+  text-decoration:none;
+}
+
+.twitter, .twitter a {
+  background:#0099ff;
+  color:#fff;
+}
+.twitter:hover, .twitter a:hover {
+  background:#fff;
+  color:#0099ff;
+}
